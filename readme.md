@@ -10,3 +10,4 @@
 * [Azure Cosmos DB Workshop](https://cosmosdb.github.io/labs/)
 * [スライド](https://cosmosdb.github.io/labs/decks/L400-WorkshopApril2019.pptx)
 * [Azure Cosmos DB ドキュメント](https://docs.microsoft.com/azure/cosmos-db/introduction)
+* [Microsoft Learn - Azure でリレーショナル データを操作する](https://docs.microsoft.com/ja-jp/learn/paths/work-with-relational-data-in-azure/)
