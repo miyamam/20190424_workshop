@@ -10,4 +10,11 @@
 * [Azure Cosmos DB Workshop](https://cosmosdb.github.io/labs/)
 * [スライド](https://cosmosdb.github.io/labs/decks/L400-WorkshopApril2019.pptx)
 * [Azure Cosmos DB ドキュメント](https://docs.microsoft.com/azure/cosmos-db/introduction)
+
+## 集中講座 - Azure Relational Database
+* [SQL Database](https://azure.microsoft.com/ja-jp/services/sql-database/)
+* [SQL Database ドキュメント](https://docs.microsoft.com/ja-jp/azure/sql-database/)
+* [Azure Database for PostgreSQL](https://azure.microsoft.com/ja-jp/services/postgresql/)
+* [Azure Database for MariaDB](https://azure.microsoft.com/ja-jp/services/mariadb/)
+
 * [Microsoft Learn - Azure でリレーショナル データを操作する](https://docs.microsoft.com/ja-jp/learn/paths/work-with-relational-data-in-azure/)
